@@ -14,7 +14,7 @@ Default login/password: user/pass
 		- And here: https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types
 	- You can do the same for dashboard in order to always be able to access it without 'minikube dashboard'
 	
-8.Implement API of easy-wallet using Spring WebFlux, Spring Data R2DBC and Postgresql
+2.Implement API of easy-wallet using Spring WebFlux, Spring Data R2DBC and Postgresql
 
 	- WalletController with methods to create/get/replenish/delete a wallet 
 	and transfer from one wallet to another
